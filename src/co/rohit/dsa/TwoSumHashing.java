@@ -28,12 +28,8 @@ public class TwoSumHashing {
             else {
                 valueIndexMap.put(currNum, i);
             }
-
         }
         return new int[] {-1,-1};
-
     }
-
-
 
 }
